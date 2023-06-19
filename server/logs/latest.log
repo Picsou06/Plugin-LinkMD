@@ -1,0 +1,410 @@
+[16:40:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:40:17] [ServerMain/INFO]: Loaded 7 recipes
+[16:40:18] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[16:40:18] [Server thread/INFO]: Loading properties
+[16:40:18] [Server thread/INFO]: This server is running Paper version git-Paper-550 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: 483368e on ver/1.19.4)
+[16:40:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:40:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:40:18] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[16:40:18] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[16:40:18] [Server thread/INFO]: Default game type: SURVIVAL
+[16:40:18] [Server thread/INFO]: Generating keypair
+[16:40:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:40:19] [Server thread/INFO]: Using default channel type
+[16:40:19] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[16:40:19] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[16:40:19] [Server thread/INFO]: [LinkDiscordMinecraft] Loading server plugin LinkDiscordMinecraft v1.0
+[16:40:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:40:19] [Server thread/INFO]: Preparing level "world"
+[16:40:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:40:20] [Server thread/INFO]: Time elapsed: 186 ms
+[16:40:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:40:20] [Server thread/INFO]: Time elapsed: 64 ms
+[16:40:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:40:20] [Server thread/INFO]: Time elapsed: 46 ms
+[16:40:20] [Server thread/INFO]: [LinkDiscordMinecraft] Enabling LinkDiscordMinecraft v1.0
+[16:40:21] [Server thread/INFO]: [DanganronpaManager] ON
+[16:40:21] [Server thread/INFO]: Running delayed init tasks
+[16:40:21] [Server thread/INFO]: Done (3.302s)! For help, type "help"
+[16:40:21] [Server thread/INFO]: Timings Reset
+[16:40:23] [User Authenticator #0/INFO]: UUID of player Picsou06 is 16dd7edf-d6d4-45dc-93da-79a302840330
+[16:40:23] [Server thread/INFO]: Picsou06 joined the game
+[16:40:23] [Server thread/INFO]: Picsou06[/127.0.0.1:54801] logged in with entity id 48 at ([world]-28.127519802453644, 86.0, 202.4144953110511)
+[16:40:30] [Server thread/INFO]: Picsou06 lost connection: Disconnected
+[16:40:30] [Server thread/INFO]: Picsou06 left the game
+[16:40:42] [User Authenticator #0/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[16:40:42] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 60617
+ pour plus d'information: https://discord.gg/dreamin
+[16:40:42] [Server thread/INFO]: TnT2Ouf left the game
+[16:40:49] [User Authenticator #0/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[16:40:49] [Server thread/INFO]: TnT2Ouf joined the game
+[16:40:49] [Server thread/INFO]: TnT2Ouf[/127.0.0.1:54841] logged in with entity id 187 at ([world]20.5, 86.0, 153.5)
+[16:40:57] [Server thread/INFO]: TnT2Ouf lost connection: Disconnected
+[16:40:57] [Server thread/INFO]: TnT2Ouf left the game
+[16:43:30] [User Authenticator #1/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[16:43:30] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 61063
+ pour plus d'information: https://discord.gg/dreamin
+[16:43:30] [Server thread/INFO]: TnT2Ouf left the game
+[16:46:10] [User Authenticator #2/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[16:46:10] [Server thread/INFO]: TnT2Ouf joined the game
+[16:46:10] [Server thread/INFO]: TnT2Ouf[/127.0.0.1:54987] logged in with entity id 258 at ([world]3.0366662644611537, 91.0, 136.91817123014144)
+[16:54:17] [Server thread/INFO]: TnT2Ouf lost connection: Disconnected
+[16:54:17] [Server thread/INFO]: TnT2Ouf left the game
+[16:55:06] [User Authenticator #3/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[16:55:06] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 48573
+ pour plus d'information: https://discord.gg/dreamin
+[16:55:06] [Server thread/INFO]: TnT2Ouf left the game
+[16:58:22] [User Authenticator #4/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[16:58:22] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 48573
+ pour plus d'information: https://discord.gg/dreamin
+[16:58:22] [Server thread/INFO]: TnT2Ouf left the game
+[16:58:49] [User Authenticator #4/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[16:58:49] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 48573
+ pour plus d'information: https://discord.gg/dreamin
+[16:58:49] [Server thread/INFO]: TnT2Ouf left the game
+[17:03:27] [User Authenticator #5/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:03:27] [Server thread/INFO]: TnT2Ouf joined the game
+[17:03:27] [Server thread/INFO]: TnT2Ouf[/127.0.0.1:55518] logged in with entity id 631 at ([world]3.0366662644611537, 91.0, 136.91817123014144)
+[17:03:44] [Server thread/INFO]: TnT2Ouf lost connection: Disconnected
+[17:03:44] [Server thread/INFO]: TnT2Ouf left the game
+[17:03:46] [User Authenticator #5/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:03:47] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 77490
+ pour plus d'information: https://discord.gg/dreamin
+[17:03:47] [Server thread/INFO]: TnT2Ouf left the game
+[17:06:23] [User Authenticator #6/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:06:24] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 77490
+ pour plus d'information: https://discord.gg/dreamin
+[17:06:24] [Server thread/INFO]: TnT2Ouf left the game
+[17:07:07] [User Authenticator #6/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:07:07] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 77490
+ pour plus d'information: https://discord.gg/dreamin
+[17:07:07] [Server thread/INFO]: TnT2Ouf left the game
+[17:07:08] [User Authenticator #6/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:07:08] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 77490
+ pour plus d'information: https://discord.gg/dreamin
+[17:07:08] [Server thread/INFO]: TnT2Ouf left the game
+[17:07:13] [User Authenticator #6/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:07:13] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 77490
+ pour plus d'information: https://discord.gg/dreamin
+[17:07:13] [Server thread/INFO]: TnT2Ouf left the game
+[17:07:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@b3baa1a[id=<null>,name=TnT2Ouf,properties={},legacy=false] (/127.0.0.1:55642) lost connection: Disconnected
+[17:07:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@3934a08f[id=<null>,name=TnT2Ouf,properties={},legacy=false] (/127.0.0.1:55643) lost connection: Disconnected
+[17:07:29] [User Authenticator #6/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:07:29] [Server thread/INFO]: TnT2Ouf joined the game
+[17:07:29] [Server thread/INFO]: TnT2Ouf[/127.0.0.1:55647] logged in with entity id 655 at ([world]3.0366662644611537, 91.0, 136.91817123014144)
+[17:09:17] [Server thread/INFO]: TnT2Ouf lost connection: Disconnected
+[17:09:17] [Server thread/INFO]: TnT2Ouf left the game
+[17:09:23] [User Authenticator #7/INFO]: UUID of player Picsou06 is 16dd7edf-d6d4-45dc-93da-79a302840330
+[17:09:23] [Server thread/INFO]: Picsou06 lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 60279
+ pour plus d'information: https://discord.gg/dreamin
+[17:09:23] [Server thread/INFO]: Picsou06 left the game
+[17:12:48] [User Authenticator #8/INFO]: UUID of player Picsou06 is 16dd7edf-d6d4-45dc-93da-79a302840330
+[17:12:48] [Server thread/INFO]: Picsou06 joined the game
+[17:12:48] [Server thread/INFO]: Picsou06[/127.0.0.1:55760] logged in with entity id 884 at ([world]-35.21074412440294, 94.0, 221.3602345163373)
+[17:12:50] [Server thread/INFO]: Picsou06 lost connection: Disconnected
+[17:12:50] [Server thread/INFO]: Picsou06 left the game
+[17:13:09] [User Authenticator #8/INFO]: UUID of player Picsou06 is 16dd7edf-d6d4-45dc-93da-79a302840330
+[17:13:09] [Server thread/INFO]: Picsou06 lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 48286
+ pour plus d'information: https://discord.gg/dreamin
+[17:13:09] [Server thread/INFO]: Picsou06 left the game
+[17:13:25] [User Authenticator #8/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:13:25] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 20210
+ pour plus d'information: https://discord.gg/dreamin
+[17:13:25] [Server thread/INFO]: TnT2Ouf left the game
+[17:13:33] [User Authenticator #8/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:13:34] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 20210
+ pour plus d'information: https://discord.gg/dreamin
+[17:13:34] [Server thread/INFO]: TnT2Ouf left the game
+[17:20:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@470367ee[id=<null>,name=TnT2Ouf,properties={},legacy=false] (/127.0.0.1:55992) lost connection: Disconnected
+[17:20:24] [User Authenticator #9/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:20:25] [Server thread/WARN]: java.sql.SQLException: Field 'Pseudo_Minecraft' doesn't have a default value
+[17:20:25] [Server thread/WARN]: 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+[17:20:25] [Server thread/WARN]: 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+[17:20:25] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916)
+[17:20:25] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:354)
+[17:20:25] [Server thread/WARN]: 	at LinkDiscordMinecraft-0.0.1.jar//fr.picsou06.LinkDiscordMinecraft.mysql.DatabaseManager.addAccount(DatabaseManager.java:47)
+[17:20:25] [Server thread/WARN]: 	at LinkDiscordMinecraft-0.0.1.jar//fr.picsou06.LinkDiscordMinecraft.components.listener.joinPlayer.JoinPlayerListener.onPlayerJoin(JoinPlayerListener.java:30)
+[17:20:25] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor1.execute(Unknown Source)
+[17:20:25] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77)
+[17:20:25] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[17:20:25] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17:20:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[17:20:25] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[17:20:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[17:20:25] [Server thread/WARN]: 	at net.minecraft.server.players.PlayerList.a(PlayerList.java:332)
+[17:20:25] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.a(LoginListener.java:202)
+[17:20:25] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.d(LoginListener.java:183)
+[17:20:25] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.c(LoginListener.java:85)
+[17:20:25] [Server thread/WARN]: 	at net.minecraft.network.NetworkManager.a(NetworkManager.java:595)
+[17:20:25] [Server thread/WARN]: 	at net.minecraft.server.network.ServerConnection.c(ServerConnection.java:234)
+[17:20:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1576)
+[17:20:25] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:447)
+[17:20:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1397)
+[17:20:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1174)
+[17:20:25] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:320)
+[17:20:25] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[17:20:25] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 0
+ pour plus d'information: https://discord.gg/dreamin
+[17:20:25] [Server thread/INFO]: TnT2Ouf left the game
+[17:20:29] [User Authenticator #9/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:20:29] [Server thread/WARN]: java.sql.SQLException: Field 'Pseudo_Minecraft' doesn't have a default value
+[17:20:29] [Server thread/WARN]: 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+[17:20:29] [Server thread/WARN]: 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+[17:20:29] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916)
+[17:20:29] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:354)
+[17:20:29] [Server thread/WARN]: 	at LinkDiscordMinecraft-0.0.1.jar//fr.picsou06.LinkDiscordMinecraft.mysql.DatabaseManager.addAccount(DatabaseManager.java:47)
+[17:20:29] [Server thread/WARN]: 	at LinkDiscordMinecraft-0.0.1.jar//fr.picsou06.LinkDiscordMinecraft.components.listener.joinPlayer.JoinPlayerListener.onPlayerJoin(JoinPlayerListener.java:30)
+[17:20:29] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor1.execute(Unknown Source)
+[17:20:29] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77)
+[17:20:29] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[17:20:29] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17:20:29] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[17:20:29] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[17:20:29] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[17:20:29] [Server thread/WARN]: 	at net.minecraft.server.players.PlayerList.a(PlayerList.java:332)
+[17:20:29] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.a(LoginListener.java:202)
+[17:20:29] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.d(LoginListener.java:183)
+[17:20:29] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.c(LoginListener.java:85)
+[17:20:29] [Server thread/WARN]: 	at net.minecraft.network.NetworkManager.a(NetworkManager.java:595)
+[17:20:29] [Server thread/WARN]: 	at net.minecraft.server.network.ServerConnection.c(ServerConnection.java:234)
+[17:20:29] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1576)
+[17:20:29] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:447)
+[17:20:29] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1397)
+[17:20:29] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1174)
+[17:20:29] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:320)
+[17:20:29] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[17:20:29] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 0
+ pour plus d'information: https://discord.gg/dreamin
+[17:20:29] [Server thread/INFO]: TnT2Ouf left the game
+[17:22:05] [User Authenticator #10/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:22:05] [Server thread/WARN]: java.sql.SQLException: Field 'Pseudo_Minecraft' doesn't have a default value
+[17:22:05] [Server thread/WARN]: 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+[17:22:05] [Server thread/WARN]: 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+[17:22:05] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916)
+[17:22:05] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:354)
+[17:22:05] [Server thread/WARN]: 	at LinkDiscordMinecraft-0.0.1.jar//fr.picsou06.LinkDiscordMinecraft.mysql.DatabaseManager.addAccount(DatabaseManager.java:47)
+[17:22:05] [Server thread/WARN]: 	at LinkDiscordMinecraft-0.0.1.jar//fr.picsou06.LinkDiscordMinecraft.components.listener.joinPlayer.JoinPlayerListener.onPlayerJoin(JoinPlayerListener.java:30)
+[17:22:05] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor1.execute(Unknown Source)
+[17:22:05] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77)
+[17:22:05] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[17:22:05] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17:22:05] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[17:22:05] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[17:22:05] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[17:22:05] [Server thread/WARN]: 	at net.minecraft.server.players.PlayerList.a(PlayerList.java:332)
+[17:22:05] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.a(LoginListener.java:202)
+[17:22:05] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.d(LoginListener.java:183)
+[17:22:05] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.c(LoginListener.java:85)
+[17:22:05] [Server thread/WARN]: 	at net.minecraft.network.NetworkManager.a(NetworkManager.java:595)
+[17:22:05] [Server thread/WARN]: 	at net.minecraft.server.network.ServerConnection.c(ServerConnection.java:234)
+[17:22:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1576)
+[17:22:05] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:447)
+[17:22:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1397)
+[17:22:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1174)
+[17:22:05] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:320)
+[17:22:05] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[17:22:05] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 0
+ pour plus d'information: https://discord.gg/dreamin
+[17:22:05] [Server thread/INFO]: TnT2Ouf left the game
+[17:22:13] [User Authenticator #10/INFO]: UUID of player Picsou06 is 16dd7edf-d6d4-45dc-93da-79a302840330
+[17:22:13] [Server thread/WARN]: java.sql.SQLException: Field 'Pseudo_Minecraft' doesn't have a default value
+[17:22:13] [Server thread/WARN]: 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+[17:22:13] [Server thread/WARN]: 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+[17:22:13] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916)
+[17:22:13] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:354)
+[17:22:13] [Server thread/WARN]: 	at LinkDiscordMinecraft-0.0.1.jar//fr.picsou06.LinkDiscordMinecraft.mysql.DatabaseManager.addAccount(DatabaseManager.java:47)
+[17:22:13] [Server thread/WARN]: 	at LinkDiscordMinecraft-0.0.1.jar//fr.picsou06.LinkDiscordMinecraft.components.listener.joinPlayer.JoinPlayerListener.onPlayerJoin(JoinPlayerListener.java:30)
+[17:22:13] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor1.execute(Unknown Source)
+[17:22:13] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77)
+[17:22:13] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[17:22:13] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17:22:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[17:22:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[17:22:13] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[17:22:13] [Server thread/WARN]: 	at net.minecraft.server.players.PlayerList.a(PlayerList.java:332)
+[17:22:13] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.a(LoginListener.java:202)
+[17:22:13] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.d(LoginListener.java:183)
+[17:22:13] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.c(LoginListener.java:85)
+[17:22:13] [Server thread/WARN]: 	at net.minecraft.network.NetworkManager.a(NetworkManager.java:595)
+[17:22:13] [Server thread/WARN]: 	at net.minecraft.server.network.ServerConnection.c(ServerConnection.java:234)
+[17:22:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1576)
+[17:22:13] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:447)
+[17:22:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1397)
+[17:22:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1174)
+[17:22:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:320)
+[17:22:13] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[17:22:13] [Server thread/INFO]: Picsou06 lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 0
+ pour plus d'information: https://discord.gg/dreamin
+[17:22:13] [Server thread/INFO]: Picsou06 left the game
+[17:23:39] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[17:23:39] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[17:23:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:23:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:23:39] [Server thread/INFO]: [LinkDiscordMinecraft] Disabling LinkDiscordMinecraft v1.0
+[17:23:39] [Server thread/INFO]: [DanganronpaManager] OFF
+[17:23:40] [Server thread/INFO]: Loaded 7 recipes
+[17:23:41] [Server thread/INFO]: [LinkDiscordMinecraft] Loading server plugin LinkDiscordMinecraft v1.0
+[17:23:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:23:41] [Server thread/INFO]: [LinkDiscordMinecraft] Enabling LinkDiscordMinecraft v1.0
+[17:23:41] [Server thread/INFO]: [DanganronpaManager] ON
+[17:23:41] [Server thread/INFO]: CONSOLE: Reload complete.
+[17:23:41] [Server thread/INFO]: Timings Reset
+[17:23:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@753cc8df[id=<null>,name=Picsou06,properties={},legacy=false] (/127.0.0.1:56069) lost connection: Disconnected
+[17:23:49] [User Authenticator #11/INFO]: UUID of player Picsou06 is 16dd7edf-d6d4-45dc-93da-79a302840330
+[17:23:49] [Server thread/WARN]: java.sql.SQLException: Field 'Pseudo_Minecraft' doesn't have a default value
+[17:23:49] [Server thread/WARN]: 	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+[17:23:49] [Server thread/WARN]: 	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+[17:23:49] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916)
+[17:23:49] [Server thread/WARN]: 	at com.mysql.cj.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:354)
+[17:23:49] [Server thread/WARN]: 	at LinkDiscordMinecraft-0.0.1.jar//fr.picsou06.LinkDiscordMinecraft.mysql.DatabaseManager.addAccount(DatabaseManager.java:47)
+[17:23:49] [Server thread/WARN]: 	at LinkDiscordMinecraft-0.0.1.jar//fr.picsou06.LinkDiscordMinecraft.components.listener.joinPlayer.JoinPlayerListener.onPlayerJoin(JoinPlayerListener.java:30)
+[17:23:49] [Server thread/WARN]: 	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor2.execute(Unknown Source)
+[17:23:49] [Server thread/WARN]: 	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77)
+[17:23:49] [Server thread/WARN]: 	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81)
+[17:23:49] [Server thread/WARN]: 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[17:23:49] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54)
+[17:23:49] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126)
+[17:23:49] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615)
+[17:23:49] [Server thread/WARN]: 	at net.minecraft.server.players.PlayerList.a(PlayerList.java:332)
+[17:23:49] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.a(LoginListener.java:202)
+[17:23:49] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.d(LoginListener.java:183)
+[17:23:49] [Server thread/WARN]: 	at net.minecraft.server.network.LoginListener.c(LoginListener.java:85)
+[17:23:49] [Server thread/WARN]: 	at net.minecraft.network.NetworkManager.a(NetworkManager.java:595)
+[17:23:49] [Server thread/WARN]: 	at net.minecraft.server.network.ServerConnection.c(ServerConnection.java:234)
+[17:23:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1576)
+[17:23:49] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:447)
+[17:23:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1397)
+[17:23:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1174)
+[17:23:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:320)
+[17:23:49] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[17:23:49] [Server thread/INFO]: Picsou06 lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 0
+ pour plus d'information: https://discord.gg/dreamin
+[17:23:49] [Server thread/INFO]: Picsou06 left the game
+[17:25:49] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[17:25:49] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[17:25:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:25:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:25:49] [Server thread/INFO]: [LinkDiscordMinecraft] Disabling LinkDiscordMinecraft v1.0
+[17:25:49] [Server thread/INFO]: [DanganronpaManager] OFF
+[17:25:49] [Server thread/INFO]: Loaded 7 recipes
+[17:25:50] [Server thread/INFO]: [LinkDiscordMinecraft] Loading server plugin LinkDiscordMinecraft v1.0
+[17:25:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:25:50] [Server thread/INFO]: [LinkDiscordMinecraft] Enabling LinkDiscordMinecraft v1.0
+[17:25:50] [Server thread/INFO]: [DanganronpaManager] ON
+[17:25:50] [Server thread/INFO]: CONSOLE: Reload complete.
+[17:25:50] [Server thread/INFO]: Timings Reset
+[17:25:55] [User Authenticator #12/INFO]: UUID of player Picsou06 is 16dd7edf-d6d4-45dc-93da-79a302840330
+[17:25:55] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to LinkDiscordMinecraft v1.0
+java.lang.IllegalArgumentException: Invalid UUID string: Picsou06
+	at java.util.UUID.fromString1(UUID.java:280) ~[?:?]
+	at java.util.UUID.fromString(UUID.java:258) ~[?:?]
+	at fr.picsou06.LinkDiscordMinecraft.components.listener.joinPlayer.JoinPlayerListener.onPlayerJoin(JoinPlayerListener.java:31) ~[LinkDiscordMinecraft-0.0.1.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor3.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.19.4-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:81) ~[paper-api-1.19.4-R0.1-SNAPSHOT.jar:git-Paper-550]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.19.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.19.4.jar:git-Paper-550]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:126) ~[paper-1.19.4.jar:git-Paper-550]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:615) ~[paper-api-1.19.4-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:332) ~[paper-1.19.4.jar:git-Paper-550]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.placeNewPlayer(ServerLoginPacketListenerImpl.java:202) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.handleAcceptedLogin(ServerLoginPacketListenerImpl.java:183) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.tick(ServerLoginPacketListenerImpl.java:85) ~[?:?]
+	at net.minecraft.network.Connection.tick(Connection.java:595) ~[?:?]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:234) ~[?:?]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1576) ~[paper-1.19.4.jar:git-Paper-550]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447) ~[paper-1.19.4.jar:git-Paper-550]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1397) ~[paper-1.19.4.jar:git-Paper-550]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1174) ~[paper-1.19.4.jar:git-Paper-550]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:320) ~[paper-1.19.4.jar:git-Paper-550]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[17:25:55] [Server thread/INFO]: Picsou06 joined the game
+[17:25:55] [Server thread/INFO]: Picsou06[/127.0.0.1:56097] logged in with entity id 913 at ([world]-35.21074412440294, 94.0, 221.3602345163373)
+[17:25:58] [Server thread/INFO]: Picsou06 lost connection: Disconnected
+[17:25:58] [Server thread/INFO]: Picsou06 left the game
+[17:27:02] [Server thread/INFO]: No player was found
+[17:27:04] [Server thread/INFO]: CONSOLE: Usage: /reload [permissions|commands|confirm]
+[17:27:07] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[17:27:07] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[17:27:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:27:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:27:07] [Server thread/INFO]: [LinkDiscordMinecraft] Disabling LinkDiscordMinecraft v1.0
+[17:27:07] [Server thread/INFO]: [DanganronpaManager] OFF
+[17:27:08] [Server thread/INFO]: Loaded 7 recipes
+[17:27:08] [Server thread/INFO]: [LinkDiscordMinecraft] Loading server plugin LinkDiscordMinecraft v1.0
+[17:27:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:27:08] [Server thread/INFO]: [LinkDiscordMinecraft] Enabling LinkDiscordMinecraft v1.0
+[17:27:08] [Server thread/INFO]: [DanganronpaManager] ON
+[17:27:08] [Server thread/INFO]: CONSOLE: Reload complete.
+[17:27:08] [Server thread/INFO]: Timings Reset
+[17:27:10] [User Authenticator #13/INFO]: UUID of player Picsou06 is 16dd7edf-d6d4-45dc-93da-79a302840330
+[17:27:10] [Server thread/INFO]: Picsou06 lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 72409
+ pour plus d'information: https://discord.gg/dreamin
+[17:27:10] [Server thread/INFO]: Picsou06 left the game
+[17:27:44] [User Authenticator #13/INFO]: UUID of player Picsou06 is 16dd7edf-d6d4-45dc-93da-79a302840330
+[17:27:44] [Server thread/INFO]: Picsou06 joined the game
+[17:27:44] [Server thread/INFO]: Picsou06[/127.0.0.1:56153] logged in with entity id 926 at ([world]-35.21074412440294, 94.0, 221.3602345163373)
+[17:27:48] [Server thread/INFO]: Picsou06 lost connection: Disconnected
+[17:27:48] [Server thread/INFO]: Picsou06 left the game
+[17:28:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@237d7945[id=<null>,name=Picsou06,properties={},legacy=false] (/127.0.0.1:56177) lost connection: Disconnected
+[17:28:16] [User Authenticator #13/INFO]: UUID of player Picsou06 is 16dd7edf-d6d4-45dc-93da-79a302840330
+[17:28:16] [Server thread/INFO]: Picsou06 lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 90725
+ pour plus d'information: https://discord.gg/dreamin
+[17:28:16] [Server thread/INFO]: Picsou06 left the game
+[17:28:39] [User Authenticator #13/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:28:39] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 73420
+ pour plus d'information: https://discord.gg/dreamin
+[17:28:40] [Server thread/INFO]: TnT2Ouf left the game
+[17:31:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@31e560b8[id=<null>,name=TnT2Ouf,properties={},legacy=false] (/127.0.0.1:56248) lost connection: Disconnected
+[17:31:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@35613abf[id=<null>,name=TnT2Ouf,properties={},legacy=false] (/127.0.0.1:56250) lost connection: Disconnected
+[17:34:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@3c399360[id=<null>,name=TnT2Ouf,properties={},legacy=false] (/127.0.0.1:56300) lost connection: Disconnected
+[17:34:18] [User Authenticator #14/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:34:18] [Server thread/INFO]: TnT2Ouf lost connection: Merci de lier votre compte Discord à votre compte minecraft! 
+ Code: 96684
+ pour plus d'information: https://discord.gg/dreamin
+[17:34:18] [Server thread/INFO]: TnT2Ouf left the game
+[17:34:37] [User Authenticator #14/INFO]: UUID of player TnT2Ouf is cf7e8ed6-4a85-4305-9241-3b181177ca40
+[17:34:37] [Server thread/INFO]: TnT2Ouf joined the game
+[17:34:37] [Server thread/INFO]: TnT2Ouf[/127.0.0.1:56313] logged in with entity id 933 at ([world]-7.43013359675085, 90.0, 146.05980329030902)
+[17:43:06] [Server thread/INFO]: Stopping server
+[17:43:06] [Server thread/INFO]: [LinkDiscordMinecraft] Disabling LinkDiscordMinecraft v1.0
+[17:43:06] [Server thread/INFO]: [DanganronpaManager] OFF
+[17:43:06] [Server thread/INFO]: Saving players
+[17:43:06] [Server thread/INFO]: TnT2Ouf lost connection: Server closed
+[17:43:06] [Server thread/INFO]: TnT2Ouf left the game
+[17:43:06] [Server thread/INFO]: Saving worlds
+[17:43:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:43:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:43:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:43:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:43:06] [Server thread/INFO]: [ChunkHolderManager] Saved 19 block chunks, 84 entity chunks, 0 poi chunks in world 'world' in 0,04s
+[17:43:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:43:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:43:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:43:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:43:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:43:06] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 16 entity chunks, 0 poi chunks in world 'world_nether' in 0,00s
