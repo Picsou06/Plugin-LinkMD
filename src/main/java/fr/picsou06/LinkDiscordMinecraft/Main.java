@@ -7,14 +7,17 @@ import org.bukkit.craftbukkit.v1_19_R3.CraftServer;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin {
-
+    
+    FileConfiguration config = getConfig();
     public static Main INSTANCE;
     public DatabaseManager database;
 
     @Override
     public void onEnable(){
         INSTANCE = this;
-        database = new DatabaseManager("185.157.247.93", 3306, "MinecraftLink", "pluginLink", "P@ssword1"); //tema le mdp de qualité
+        config.options().copyDefaults(true);
+        saveConfig();
+        database = new DatabaseManager(config.getString("Database.Host"), config.getInt("Database.Port"), config.getString("Database.Name"), config.getString("Database.ID"), config.getString("Database.MDP"));
         database.connection();
        // createCommand(new SimpleCommand("resetlink", "", new CommandResetLink()));
         new ListenerManager(this);
