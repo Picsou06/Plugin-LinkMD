@@ -3,4 +3,5 @@ author: Picsou06
 version: 1.0
 api-version: 1.19
 main : fr.picsou06.LinkDiscordMinecraft.Main
+config: config.yml
 description: AutoLinkDiscord
